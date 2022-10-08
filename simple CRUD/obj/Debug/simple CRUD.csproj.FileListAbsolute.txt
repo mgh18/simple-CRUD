@@ -1,0 +1,13 @@
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\bin\Debug\simple CRUD.exe.config
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\bin\Debug\simple CRUD.exe
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\bin\Debug\simple CRUD.pdb
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple_CRUD.Form1.resources
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple_CRUD.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.exe
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple CRUD.pdb
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple_CRUD.Form2.resources
+C:\Users\marziyeh\source\repos\simple CRUD\simple CRUD\obj\Debug\simple_CRUD.Form3.resources
